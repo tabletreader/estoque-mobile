@@ -1,10 +1,14 @@
+
 name: estoque_mobile
-description: Projeto com suporte completo para Android, iOS e Web
+description: App Flutter com estrutura pronta para build automático
 version: 1.0.0+1
+
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: '>=2.18.0 <3.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
+
 flutter:
   uses-material-design: true

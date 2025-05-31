@@ -1,1 +1,1 @@
-void main() => print('Projeto Flutter com estrutura completa.');
+void main() => print('Flutter app ready.');
