@@ -1,0 +1,17 @@
+
+name: estoque_mobile
+description: App de controle de estoque com leitura de código de barras.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  barcode_scan2: ^4.2.0
+
+flutter:
+  uses-material-design: true
